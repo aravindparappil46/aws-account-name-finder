@@ -6,4 +6,6 @@ If you find yourself switching between multiple AWS accounts through your organi
 
 This extension will display the Account Name on the Management Console's profile menu (top right menu) so that you do not have to wonder which account you have open!
 
-
+# How To Install?
+You can add this extension to your Google Chrome by installing it from the Chrome Web Store:
+https://chrome.google.com/webstore/detail/aws-account-name-finder/klfapagapfiboakkamfdebnpbfgeellj
